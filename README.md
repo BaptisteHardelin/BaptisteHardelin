@@ -20,6 +20,6 @@ Fun fact I'm playing tennis since 11 years and I start the competition in early 
 
 ## Quotes
 
-" A man who wins, is a man who thinks he can. "
+" A man who wins, is a man who thinks he can. " <br />
 " There is no way around the hard work. "
 - Roger Federer
