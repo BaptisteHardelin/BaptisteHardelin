@@ -23,18 +23,16 @@ Fun fact I'm playing tennis since 11 years and I start the competition in early 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BaptisteHardelin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BaptisteHardelin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteHardelin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BaptisteHardelin&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BaptisteHardelin&icon=2&color=0)](https://visitcount.itsvg.in)
    
 
-## Quotes
+#  Quotes
 
 " A man who wins, is a man who thinks he can. " <br />
 " There is no way around the hard work. "
