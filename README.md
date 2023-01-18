@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm learning Kotlin for backend <br>
-Fun fact I'm playing tennis since 11 years and I start the competition in early 2023
+Fun fact I'm playing tennis since 11 years and I start the competition in early 2024
 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Fun fact I'm playing tennis since 11 years and I start the competition in early 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![React.js](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
+[![React.js](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
