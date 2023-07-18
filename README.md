@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm learning Kotlin for backend <br>
+I'm learning NestJS for backend <br>
 Fun fact I'm playing tennis since 11 years and I start the competition in early 2024
 
 
