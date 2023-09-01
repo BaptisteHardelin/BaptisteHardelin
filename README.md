@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm learning NestJS for backend <br>
-Fun fact I'm playing tennis since 11 years and I start the competition in early 2024
+Fun fact I'm playing tennis since 12 years and I start the competition in early 2024
 
 
 # 💻 Tech Stack:
